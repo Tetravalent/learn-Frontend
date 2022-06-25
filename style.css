@@ -1,0 +1,71 @@
+body::before {
+    display: block;
+    height: 80px;
+    content: "";
+}
+
+/* body::after {
+    display: block;
+    height: 80px;
+    content: "";
+} */
+
+/* background-color: #b1a6a4;
+background-color: #f2f1ef; */
+
+
+
+/* font-family: 'Abril Fatface', cursive;
+font-family: 'Cinzel', serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Tiro Bangla', serif;
+font-family: 'Ubuntu', sans-serif; */
+
+
+.navbarcolor {
+    background-color: #413f3d;
+    font-family: 'Cinzel', serif;
+}
+
+
+.background {
+    background-color: #d7cfce;
+}
+
+.Showcase {
+    background-color: #413f3d;
+}
+
+.buttons {
+    background-color: #d7cfce;
+}
+
+.newsbutton {
+    background-color: #413f3d;
+    position: relative;
+    bottom: 0%;
+}
+
+.acordion {
+    background-color: #f2f1ef;
+}
+
+.readmore {
+    background-color: #6c63ff;
+}
+
+.fundamentals {
+    background-color: #b1a6a4;
+}
+
+.ubunt{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: medium;
+}
+
+
+@media(min-width:768px) {
+    .news-input {
+        width: 50%;
+    }
+}
